@@ -1,5 +1,5 @@
 const { Message, Client, MessageAttachment, MessageEmbed } = require("discord.js");
-const { ChartJSNodeCanvas } = require("chartjs-node-canvas")
+const { ChartJSNodeCanvas } = require("chartjs-node-canvas") // instala chartjs-node-canvas y chart.js
 const fs = require("fs");
 
 const width = 600
